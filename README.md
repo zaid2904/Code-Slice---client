@@ -72,7 +72,7 @@ Zaid Siddiqui
 
 - **Create Snippet**
 
-![Create Snippet](public/createPost.png)
+![Create Snippet Light Mode UI](public/createPost.png)
 
 - **Admin Panel**
 
