@@ -59,3 +59,25 @@ src/
 ## Author
 
 Zaid Siddiqui
+
+## Screenshots
+
+- **Dashboard**
+
+![Dashboard](public/Dashboard.png)
+
+- **Home**
+
+![Home](public/home.png)
+
+- **Create Snippet**
+
+![Create Snippet](public/createPost.png)
+
+- **Admin Panel**
+
+![Admin Panel](public/admin.png)
+
+- **Profile**
+
+![Profile](public/profile.png)
